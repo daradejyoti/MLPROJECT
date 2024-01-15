@@ -112,8 +112,7 @@ ipython_config.py
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
 
-# Celery stuff
-celerybeat-schedule
+# Celery stufferybeat-schedule
 celerybeat.pid
 
 # SageMath parsed files
@@ -124,6 +123,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+
 ENV/
 env.bak/
 venv.bak/
